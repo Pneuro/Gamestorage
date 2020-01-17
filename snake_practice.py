@@ -1,5 +1,3 @@
-##### This app draws a heart.
-
 import turtle as t
 import random
     
@@ -31,8 +29,8 @@ while True:
         t.circle(90)
 
     def fill():
-        t.fd(1)
-        t.rt(1)
+        t.fd(12)
+        t.rt(12)
     
 
     draw()
